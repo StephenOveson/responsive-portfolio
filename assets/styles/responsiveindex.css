@@ -1,0 +1,66 @@
+@media only screen and (min-width: 640px) {
+    .menubar {
+        height: 75px;
+        margin-bottom: 15px;
+        margin-top: 0px;
+    }
+    
+    .logo {
+        background: #4aaaa5;
+        float: left;
+        height: 100%;
+        padding: 25px 30px;
+    }
+    
+    .rightmenu {
+        padding-top: 25px;
+        color: #777;
+    }
+    
+    .rightmenu:hover {
+        color: #4aaaa5;
+        font-size:20px;
+    }
+    
+    .menu {
+        max-width:960px;
+        margin: auto;
+        height: 75px;
+        font-size: 17px;
+        text-align: center;
+    }
+    
+    .main {
+        max-width:960px;
+        height: 500px;
+        margin: auto;
+        background-color: #fff;
+        overflow-y: scroll;
+        border: 1px solid #ccc;
+    }
+    
+    .topdiv {
+        padding: 30px;
+        font-size: 25px;
+    }
+    
+    
+    .headshot {
+        width:30%;
+    }
+    
+    .img1 {
+        width: 100%;
+    }
+    
+    .headshot {
+        float: left;
+        width: 30%;
+        margin-right: 30px;
+    }
+    
+    .totalcontent{
+    margin: auto;
+    padding-right:10px;
+    }
+}
